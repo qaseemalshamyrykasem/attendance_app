@@ -42,11 +42,11 @@ dependencies:
 
   # QR Code
   qr_flutter: ^4.1.0
-  mobile_scanner: ^4.0.1
+  mobile_scanner: ^7.1.0
 
   # Network
-  connectivity_plus: ^5.0.2
-  network_info_plus: ^5.0.2
+  connectivity_plus: ^7.0.0
+  network_info_plus: ^7.0.0
 
   # Permissions
   permission_handler: ^11.3.0
